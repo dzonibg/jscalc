@@ -12,6 +12,15 @@
     border-radius: 10px;
 
     text-shadow: 5px 8px 10px #c65285;
+
+}
+
+.clickitem:hover {
+    background: burlywood;
+}
+
+.clickitem:active {
+    transform: translateY(2px);
 }
 
 .flex-container {
